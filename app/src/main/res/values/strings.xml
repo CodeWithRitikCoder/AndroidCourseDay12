@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Project 12 of Android Course With Saumya Singh- Read Or Data Stored Database</string>
+    <string name="welcome_back">Welcome Back,</string>
+    <string name="log_in">Log In!</string>
+    <string name="enter_user_name">Enter user name</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">Sign Up!</string>
+    <string name="don_t_have_an_account_register_now">Don\'t have an account? Register Now</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="sing_up">SIGN UP</string>
+    <string name="study_club">Study \n     Club</string>
+    <string name="these_are_your_details_from_our_database">These are your details from our Database</string>
+</resources>

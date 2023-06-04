@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".HomeActivity">
+
+    <TextView
+        android:id="@+id/textViewForWelcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_margin="30sp"
+        android:textStyle="bold"
+        android:textSize="35sp"
+        android:text="Welcome" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30sp"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:text="@string/these_are_your_details_from_our_database" />
+
+    <TextView
+        android:id="@+id/textViewForUserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_margin="20sp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:background="#ffcb6b"
+        android:textColor="@color/black"
+        android:text="userName : " />
+
+    <TextView
+        android:id="@+id/textViewForEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_margin="20sp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:background="#ffcb6b"
+        android:textColor="@color/black"
+        android:shadowRadius="10"
+        android:text="Email : " />
+</LinearLayout>

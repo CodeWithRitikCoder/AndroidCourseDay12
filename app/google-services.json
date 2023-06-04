@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996058143008",
+    "project_id": "project-12-rw-with-database",
+    "storage_bucket": "project-12-rw-with-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996058143008:android:2c8453a63a3a974db4df45",
+        "android_client_info": {
+          "package_name": "com.ritikcoder.project12ofandroidcoursewithsaumyasingh_readordatastoreddatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLoJBAfMoSpDu3atTDKLdM-T1VFuMb8ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
